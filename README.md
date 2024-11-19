@@ -66,10 +66,7 @@ Chatrooms is a text based chatting app that allows users to interact with one an
 
 ## Wireframes
 
-Login Screen Wireframe:
-![Login Screen Wireframe Image](https://github.com/user-attachments/assets/96cf0607-1fb8-49b8-8232-96ae46af19ef)
-Chatroom Screen Wireframe:
-![Chatroom Screen Wireframe Image](https://github.com/user-attachments/assets/1b6b566c-3356-493a-9fe6-3af98555286a)
+![image](https://github.com/user-attachments/assets/9f22a447-415c-4e1c-ba52-571b5068da8a)
 
 ## Schema 
 
